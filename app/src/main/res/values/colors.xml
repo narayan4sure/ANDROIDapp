@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Primary color for the app -->
+<color name="primary_color">#3F51B5</color>
+
+<!-- Accent color, used for highlights and other UI accents -->
+<color name="accent_color">#FF4081</color>
+
+<!-- Text color for dark backgrounds -->
+<color name="text_color_dark">#FFFFFF</color>
+
+<!-- Text color for light backgrounds -->
+<color name="text_color_light">#212121</color>
+
+<!-- Background color for light gray -->
+<color name="light_gray">#F5F5F5</color>
+
+<!-- Background color for white -->
+<color name="white">#FFFFFF</color>
+
+<!-- Background color for black -->
+<color name="black">#000000</color>
+
+<!-- Dark gray color for footer text -->
+<color name="dark_gray">#808080</color>
+</resources>
+
